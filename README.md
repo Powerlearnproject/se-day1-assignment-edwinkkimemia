@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software engineering is the act of designig, coding, programming and maintaing software systems and also testing them.
+Software engineering is the act of designing, coding, programming and maintaing software systems and also testing them.
 it drives innovation and helps in bulding and maintaing mobile and web apps, hense the user goals are solved via technology
 
 Identify and describe at least three key milestones in the evolution of software engineering.
